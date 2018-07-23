@@ -29,3 +29,4 @@ Use this issue template to integrate a new language.
   - [ ] Foreign service rejection (bar)
   - [ ] Start/stop idempotency test for Announcer
   - [ ] Start/stop idempotency test for Discoverer
+  - [ ] 30 second badger resistance test
